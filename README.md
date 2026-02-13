@@ -26,8 +26,6 @@
 
 ## 📸 Hình ảnh minh họa
 
-> *Vui lòng chèn ảnh chụp màn hình vào thư mục /Images hoặc dán link ảnh vào đây*
-
 | Giao diện chính | Quản lý hóa đơn |
 | :---: | :---: |
 | ![Main UI](https://via.placeholder.com/400x250?text=PolyCafe+Main+UI) | ![Bill UI](https://via.placeholder.com/400x250?text=PolyCafe+Billing) |
